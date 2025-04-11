@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4874529,
+          48.338978
+        ]
+      },
+      "properties": {
+        "Unique Number": "927000",
+        "Name": "ALBH WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.1350867,
+          48.83533
+        ]
+      },
+      "properties": {
+        "Unique Number": "M027005",
+        "Name": "BAMF WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.8426237,
+          50.54428
+        ]
+      },
+      "properties": {
+        "Unique Number": "M007003",
+        "Name": "BCOV WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.771728,
+          50.1567
+        ]
+      },
+      "properties": {
+        "Unique Number": "M187002",
+        "Name": "BPEB WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1308667,
+          48.8203
+        ]
+      },
+      "properties": {
+        "Unique Number": "M077001",
+        "Name": "CLRS WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.1226456,
+          49.87305
+        ]
+      },
+      "properties": {
+        "Unique Number": "M007001",
+        "Name": "ELIZ WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.127313,
+          49.68148
+        ]
+      },
+      "properties": {
+        "Unique Number": "M097001",
+        "Name": "GLDR WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.1349792,
+          50.64035
+        ]
+      },
+      "properties": {
+        "Unique Number": "927005",
+        "Name": "HOLB WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0538386,
+          48.43306
+        ]
+      },
+      "properties": {
+        "Unique Number": "M097002",
+        "Name": "JORD WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.6970688,
+          48.99969
+        ]
+      },
+      "properties": {
+        "Unique Number": "M177002",
+        "Name": "MGRB WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.914057,
+          49.46701
+        ]
+      },
+      "properties": {
+        "Unique Number": "M197000",
+        "Name": "MRIB WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.5707061,
+          49.55097
+        ]
+      },
+      "properties": {
+        "Unique Number": "M107001",
+        "Name": "MYRA WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0864612,
+          49.29481
+        ]
+      },
+      "properties": {
+        "Unique Number": "957000",
+        "Name": "NANO WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.0558575,
+          50.40305
+        ]
+      },
+      "properties": {
+        "Unique Number": "M187003",
+        "Name": "NCSB WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.6165928,
+          49.59236
+        ]
+      },
+      "properties": {
+        "Unique Number": "M007000",
+        "Name": "NTKA WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4511109,
+          48.64853
+        ]
+      },
+      "properties": {
+        "Unique Number": "987003",
+        "Name": "PGC5 WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.8609377,
+          49.25633
+        ]
+      },
+      "properties": {
+        "Unique Number": "M027000",
+        "Name": "PTAL WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.413041,
+          48.54426
+        ]
+      },
+      "properties": {
+        "Unique Number": "M077000",
+        "Name": "PTRF WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.3308125,
+          50.13249
+        ]
+      },
+      "properties": {
+        "Unique Number": "M067000",
+        "Name": "QUAD WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7041115,
+          48.92316
+        ]
+      },
+      "properties": {
+        "Unique Number": "M037002",
+        "Name": "SC04 WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.6775831,
+          49.89299
+        ]
+      },
+      "properties": {
+        "Unique Number": "M197002",
+        "Name": "TAHB WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.9078208,
+          49.15414
+        ]
+      },
+      "properties": {
+        "Unique Number": "M087002",
+        "Name": "TFNO WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.5416225,
+          48.92563
+        ]
+      },
+      "properties": {
+        "Unique Number": "947001",
+        "Name": "UCLU WCDA-PGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.5703428,
+          50.16074
+        ]
+      },
+      "properties": {
+        "Unique Number": "M167002",
+        "Name": "WOSB WCDA-PGC"
+      }
+    }
+  ]
+}
